@@ -38,7 +38,7 @@ python manage.py addcsv
 
 ### Запустить проект:
 ```
-python3 manage.py runserver
+python manage.py runserver
 ```
 
 ### Описание проекта:
